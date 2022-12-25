@@ -84,6 +84,9 @@ int main() {
 }
 
 /*
+1 l r v: assign value v to all elements on the segment from l to r−1 (0≤l<r≤n, 0≤v≤10^9).
+2 i: find the value of the element with index i (0≤i<n).
+
 Input :
 5 5
 1 0 3 3
